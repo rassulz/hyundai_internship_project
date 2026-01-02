@@ -114,7 +114,7 @@ This project bridged **theory and real industrial practice**.
 
 ## 👤 Author
 
-**Rassul Zeynulla**  
+**Rassul Zeynulla, Dosymzhan Birzhanuly, Alkar Muqatai, Azamat Turakbaev**  
 Industrial Automation & Robotics  
 Internship Project — Hyundai Trans Kazakhstan
 
